@@ -1,0 +1,35 @@
+.login{
+    background-color: #f8f8f8;
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+ }
+
+.login_container{
+    padding: 100px;
+    text-align: center;
+    background-color: white;
+    border-radius:10px ;
+    box-shadow: 0 8px 8px rgba(0,0,0,0.12)
+}
+
+.login_container > img{
+    object-fit: contain;
+    height: 100px;
+    margin-bottom: 40px;
+}
+.login_button{
+    background-color: var(--twitter-color) !important;
+    border: none;
+    color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 50px !important;
+    height: 50px !important;
+    margin-top: 20px !important;
+}
+.login_avatar{
+    margin-left: 140px;
+    padding: 20px;
+}
