@@ -12,6 +12,6 @@ and now cd into your folder and type  npm start in your shell.
 #
 ![Twitter_clone](/clone.png)
 
-![Twitter_mov](/clone.mov)
+[![Alt text for your video](https://i.ytimg.com/vi/4M7N2bhWOaw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDJpfiWe1Tkj2glSodZZYZ48ds07Q)](https://youtu.be/4M7N2bhWOaw?t=4)
 
 # IT'S JUST FOR EDUCATIONAL PURPOSE.
