@@ -11,4 +11,7 @@ create a folder and move {"src"} and {"public"} and all other files in the the f
 and now cd into your folder and type  npm start in your shell.
 #
 ![Twitter_clone](/clone.png)
+
+![Twitter_mov](/clone.mov)
+
 # IT'S JUST FOR EDUCATIONAL PURPOSE.
