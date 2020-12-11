@@ -10,3 +10,5 @@ you nedd to install all dependencies mentions in {'./package.json'}
 create a folder and move {"src"} and {"public"} and all other files in the the folder you created.
 
 and now cd into your folder and type  npm start in your shell.
+
+# IT'S JUST FOR EDUCATIONAL PURPOSE.
