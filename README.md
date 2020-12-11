@@ -9,6 +9,6 @@ you nedd to install all dependencies mentions in {'./package.json'}
 create a folder and move {"src"} and {"public"} and all other files in the the folder you created.
 
 and now cd into your folder and type  npm start in your shell.
-
-![Twitter_clone](/Screenshot 2020-12-11 at 8.12.23 AM.png)
+#
+![Twitter_clone](/clone.png)
 # IT'S JUST FOR EDUCATIONAL PURPOSE.
