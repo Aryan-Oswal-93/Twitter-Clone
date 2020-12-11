@@ -10,5 +10,5 @@ create a folder and move {"src"} and {"public"} and all other files in the the f
 
 and now cd into your folder and type  npm start in your shell.
 
-![picture](/Screenshot 2020-12-11 at 8.12.23 AM.png)
+![image](Screenshot 2020-12-11 at 8.12.23 AM.png)
 # IT'S JUST FOR EDUCATIONAL PURPOSE.
